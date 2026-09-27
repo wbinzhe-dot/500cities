@@ -11,7 +11,7 @@ Advan Research (https://advanresearch.com/) made this data available via the Dew
 The original data underlying this article were provided by Dewey under an institutional license. The data are shareable upon request for replication purposes. 
 
 ### City-level coefficients and attributes
-Available at modelling_data.zip 
+Available at modelling_data.zip and supplementary_data.zip
 
 
 
